@@ -1,1 +1,1 @@
-summon villager ~ ~ ~ {CustomName:'[{"text":"Arch Priest of "},{"text":"The End","color":"light_purple"}]',Tags:["arch_priest"]}
+summon villager ~ ~ ~ {CustomName:'[{"text":"Arch Priest of "},{"text":"The End","color":"light_purple"}]',Tags:["arch_priest"],VillagerData:{profession:"cleric",level:2}}
