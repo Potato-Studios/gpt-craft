@@ -1,1 +1,1 @@
-function gpt-craft:internal/arch_priest/clear
+function internal-gpt-craft:arch_priest/clear
