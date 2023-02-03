@@ -1,0 +1,1 @@
+give @s bow{Enchantments:[{id:"minecraft:power",lvl:100},{id:"minecraft:fire_aspect",lvl:100},{id:"minecraft:infinity",lvl:1}],display:{Name:'{"text":"Soulbow","color":"blue"}',Lore:['{"text":"An ancient bow forged from the ruins of the Nether."}']}}
