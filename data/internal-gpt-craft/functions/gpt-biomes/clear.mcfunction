@@ -1,0 +1,1 @@
+schedule clear internal-gpt-craft:gpt-biomes/damage
